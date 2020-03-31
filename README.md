@@ -18,7 +18,7 @@ After having introduced the navigation tools now it is time to focus on the mini
 ### Which games need a minimap
 Having the capacity of displaying so many information simplified together is the biggest advantage of minimaps however there is a downside to it. The main issue of minimaps is that they can affect the immersion of the game a lot. They display so much information that the players can play some games and spend most of the time just looking at the minimap losing a lot of the immersive experience.
 Continiously I will show two videos about two gameplays of two FPS games using eyetraker, one with minimap and the other without it. Pay attention to how much time the minimap game player spends looking at it.
-[COD gameplay](https://www.youtube.com/watch?time_continue=101&v=eR2ymO81_g0&feature=emb_logo "COD eyetracker")
+[![](Docs/Images/supermario_comparison.jpg)](https://www.youtube.com/watch?time_continue=101&v=eR2ymO81_g0&feature=emb_logo "COD eyetracker")
 
 ### Where should the minimap be?
 
