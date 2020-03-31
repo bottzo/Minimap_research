@@ -11,3 +11,15 @@ The article divides the navigation tools between discrete and immersed. On one h
 ![fornite](Docs/Images/fornite.gif "minimap_compass example")
 
 On the other hand, the immerse navigation tools are a part of the game environment. The article classifies them between the categories of attract, identify and guide.
+## Minimap
+After having introduced the navigation tools now it is time to focus on the minimap.The minimap is a small, simplified version of a larger map. This plays a vital role in many games, especially Real Time Strategy, where it is important to have an overview of the entire map. As part of the discrete navigation tools it is a part of the graphical user interface. Appart from orienting players on the space it also can display a lot of other game information like allies, enemies, buildings, terrain, communication symbols, coordinates, objectives, items...
+(History and curiosities)
+
+### Which games need a minimap
+Having the capacity of displaying so many information simplified together is the biggest advantage of minimaps however there is a downside to it. The main issue of minimaps is that they can affect the immersion of the game a lot. They display so much information that the players can play some games and spend most of the time just looking at the minimap losing a lot of the immersive experience.
+Continiously I will show two videos about two gameplays of two FPS games using eyetraker, one with minimap and the other without it. Pay attention to how much time the minimap game player spends looking at it.
+[COD gameplay]https://www.youtube.com/watch?time_continue=101&v=eR2ymO81_g0&feature=emb_logo "COD eyetracker")
+
+### Where should the minimap be?
+
+##Implementation
