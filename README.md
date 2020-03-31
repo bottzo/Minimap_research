@@ -9,4 +9,5 @@ The article divides the navigation tools between discrete and immersed. On one h
 ![marker](Docs/Images/marker.PNG "marker example")
 ### Minimap + Compass
 ![fornite](Docs/Images/fornite.gif "minimap_compass example")
+
 On the other hand, the immerse navigation tools are a part of the game environment. The article classifies them between the categories of attract, identify and guide.
