@@ -1,2 +1,3 @@
-# Minimap_research
- Research work and implementation of a minimap using SDL
+# The minimap
+ A minimap is a video games navigation tool with the main pourpose to orientate players on the game space. To understand the concept of navigation on videogames we can look at the earliest games. Most of them  like Space Invaders or Pac-Man could display all its information in one screen so the players did not need any extra information. However, from then on games have grown a lot on complexity and the idea of displaying all the info of the game in one screen was quickly abandoned. Nowadays, games favor larger environments, through scrolling or leaving one screen and entering the next. Here is where the navigations tools are impresindible to help the player keep track of the information about the complex game space like his position on it.
+![Pacman](Docs/Images/pacman.gif "pacman")
