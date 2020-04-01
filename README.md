@@ -29,7 +29,7 @@ For the last years, mostly all open-world games had a mini-map in the corner of 
 
 ![Horizon](Docs/Images/horizon.gif "horizon: zero down")
 
-For FPS games we also have some with and some without minimap. As an example and curiosity, until the last Call of duty: Modern warfare, all Call of duty games had the minimap but this last one only displays the minimap on a reward from a killing spree.
+For FPS games we also have some with and some without minimap. As an example and curiosity, until the last Call of duty: Modern warfare, all Call of duty games had the minimap but this last one only displays the minimap on a reward from a killing spree. Other FPS that do not use minimap is [overwatch](https://segmentnext.com/2016/09/21/respond-requests-minimap-overwatch/ "Minimap on overwatch")
 
 ![COD_MW](Docs/Images/cod_mw.gif "COD_MW")
 
@@ -41,4 +41,4 @@ Finally, sports games that do not show all the field of play on the screen tend 
 
 ### Where should the minimap be?
 
-##Implementation
+## Implementation
