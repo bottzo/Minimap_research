@@ -41,6 +41,8 @@ Normally, racing games also include a circular minimap that shows the track blen
 
 Finally, sports games that do not show all the field of play on the screen tend to include a disimulated minimap. It is not very important because normally you just check it occasionally
 
+![fifa](Docs/Imags/fifa.jpg "fifa")
+
 ### Where should the minimap be?
 
 ## Implementation
