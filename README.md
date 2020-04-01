@@ -34,6 +34,7 @@ For FPS games we also have some with and some without minimap. As an example and
 ![COD_MW](Docs/Images/cod_mw.gif "COD_MW")
 
 As we can see, on other game generes, we can discuss if we should have a minimap or not, however, the minimap is a must in all strategy games. In order to make the best decisions, the player needs as much information as possible, if easily accesible better, and that is what the minimap does best.
+
 ![Lol](Docs/Images/Lol_Minimap.png  "Lol minimap") ![Starcraft](Docs/Images/starcraft.jpg  "Starcraft minimap")
 
 Normally, racing games also include a circular minimap that shows the track blended with the screen. This minimap is not as itrusive as in the open-world games because the player must keep an eye on the track at all times 
