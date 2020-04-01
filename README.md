@@ -30,6 +30,7 @@ For the last years, mostly all open-world games had a mini-map in the corner of 
 ![Horizon](Docs/Images/horizon.gif "horizon: zero down")
 
 For FPS games we also have some with and some without minimap. As an example and curiosity, until the last Call of duty: Modern warfare, all Call of duty games had the minimap but this last one only displays the minimap on a reward from a killing spree.
+
 ![COD_MW](Docs/Images/cod_mw.gif "COD_MW")
 
 As we can see, on other game generes, we can discuss if we should have a minimap or not, however, the minimap is a must in all strategy games. In order to make the best decisions, the player needs as much information as possible, if easily accesible better, and that is what the minimap does best.
