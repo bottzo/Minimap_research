@@ -49,5 +49,5 @@ Finally, sports games that do not show all the field of play on the screen tend 
 Most of the times the minimap is on one of the corners of the screen. Normally it is on top or bottom of the screen depending on where is the rest of the HUD. If the minimap is very key on a game, it is a good idea to put it centered on the bottom. For more information on this topic check this [link](https://gamedev.stackexchange.com/questions/87301/how-do-i-choose-where-to-position-a-mini-map-in-the-hud "where should we put the minimap?")
 
 ## Implementation
-As I did not have very clear where to put the minimap i made it mobile
-Check the pdf document
+Check the Solution directory on this github repository to find my minimap implementation. If you want to try to code it by yourself, check the handout directory.
+![isometric](Docs/Images/isometric_solution.PNG "iso")  ![orthogonal](Docs/Images/orthogonal_solution.PNG "orthogonal")
