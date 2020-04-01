@@ -37,7 +37,9 @@ As we can see, on other game generes, we can discuss if we should have a minimap
 
 ![Lol](Docs/Images/Lol_Minimap.png  "Lol minimap") ![Starcraft](Docs/Images/starcraft.jpg  "Starcraft minimap")
 
-Normally, racing games also include a circular minimap that shows the track blended with the screen. This minimap is not as itrusive as in the open-world games because the player must keep an eye on the track at all times 
+Normally, racing games include a minimap that shows the track blended with the screen. This minimap is not as itrusive as in the open-world games because the player must keep an eye on the track at all times 
+
+![gran turismo](Docs/Images/gt.jpg "gran turismo")
 
 Finally, sports games that do not show all the field of play on the screen tend to include a disimulated minimap. It is not very important because normally you just check it occasionally
 
