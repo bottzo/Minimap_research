@@ -50,7 +50,7 @@ Most of the times the minimap is on one of the corners of the screen. Normally i
 
 ## Implementation
 Check the exercices directory on this github repository to find my minimap implementation. If you want to try to code it by yourself, check the handout directory. To give a basic idea on how I implemented it I draw the main map (using tilesets) on a texture but scaling it to have the right minimap proportions. The implementation covers an isometric and orthogonal map.
-![isometric](Images/isometric_solution.PNG "iso")  ![orthogonal](Images/orthogonal_solution.PNG "orthogonal")
+![isometric](Docs/Images/isometric_solution.PNG "iso")  ![orthogonal](Docs/Images/orthogonal_solution.PNG "orthogonal")
 
 Solution debug keys: 
 
