@@ -6,7 +6,7 @@
 [This very interesting gamasutra article](https://www.gamasutra.com/view/feature/4115/no_more_wrong_turns.php?print=1 "Gamasutra article") explains very well the different types of navigation tools used on videogames. Because the pourpose of the research is specifically about the minimap I will just resume the article on this point but if you are interested on the topic deffinately check it out.
 The article divides the navigation tools between discrete and immersed. On one hand, the discrete navigation tools are the ones that are part of the Graphical User Interface, making them very noticeable. In this category we find the minimap, the marker and the compass.
 ### Marker
-![marker](Images/marker.PNG "marker example")
+![marker](Images/marker.png "marker example")
 ### Minimap + Compass
 ![fornite](Images/fornite.gif "minimap_compass example")
 
